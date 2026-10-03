@@ -9,6 +9,10 @@ Turn five units of DSA into one calm, structured study experience — with notes
 
 <br />
 
+**[↗ Live Demo](https://dsa-hub-pearl.vercel.app/)** · **[View Source](https://github.com/SuperVOID-og/DSA-HUB-)**
+
+<br />
+
 [![React](https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
@@ -243,6 +247,6 @@ Built as a focused DSA learning platform and continuously refined around real st
 
 <br />
 
-<a href="https://github.com/SuperVOID-og/DSA-HUB-">View the repository →</a>
+<a href="https://dsa-hub-pearl.vercel.app/">Open DSA Hub →</a>
 
 </div>
