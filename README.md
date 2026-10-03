@@ -9,7 +9,14 @@ Turn five units of DSA into one calm, structured study experience — with notes
 
 <br />
 
-**[↗ Live Demo](https://dsa-hub-pearl.vercel.app/)** · **[View Source](https://github.com/SuperVOID-og/DSA-HUB-)**
+<a href="https://dsa-hub-pearl.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_EXPERIENCE-%E2%86%92-141414?style=for-the-badge&labelColor=e05626" alt="Open live experience" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/SuperVOID-og/DSA-HUB-"><img src="https://img.shields.io/badge/VIEW_SOURCE-%E2%86%92-141414?style=for-the-badge" alt="View source" /></a>
+
+<br />
+<br />
+
+<sub><strong>Live at</strong> &nbsp; dsa-hub-pearl.vercel.app &nbsp; · &nbsp; Deployed with Vercel</sub>
 
 <br />
 
